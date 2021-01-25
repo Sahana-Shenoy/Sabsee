@@ -995,9 +995,9 @@ pre code {
         max-width: 41.666667%;
     }
     .col-md-6 {
-        -ms-flex: 0 0 20%;
-        flex: 0 0 20%;
-        max-width: 20%;
+        -ms-flex: 0 0 25%;
+        flex: 0 0 25%;
+        max-width: 25%;
     }
     .col-md-7 {
         -ms-flex: 0 0 58.333333%;
@@ -1156,9 +1156,9 @@ pre code {
         max-width: 25%;
     }
     .col-lg-4 {
-        -ms-flex: 0 0 20%;
-        flex: 0 0 20%;
-        max-width: 20%;
+        -ms-flex: 0 0 25%;
+        flex: 0 0 25%;
+        max-width: 25%;
     }
     .col-lg-5 {
         -ms-flex: 0 0 41.666667%;
@@ -1327,9 +1327,9 @@ pre code {
         max-width: 25%;
     }
     .col-xl-4 {
-        -ms-flex: 0 0 20%;
-        flex: 0 0 20%;
-        max-width: 20%;
+        -ms-flex: 0 0 25%;
+        flex: 0 0 25%;
+        max-width: 25%;
     }
     .col-xl-5 {
         -ms-flex: 0 0 41.666667%;
