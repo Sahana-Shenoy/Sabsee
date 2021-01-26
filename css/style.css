@@ -312,8 +312,7 @@
 	font-size: 13px;
 }
 
- .main-header{
-}
+
  .search a{
      color: #b0b435;
 }
@@ -610,17 +609,17 @@
 	 padding: 6px 25px;
 }
 
- nav.navbar.bootsnav ul.navbar-nav li.dropdown ul.dropdown-menu li a:hover{
+ /* nav.navbar.bootsnav ul.navbar-nav li.dropdown ul.dropdown-menu li a:hover{
 	 
- }
+ } */
  nav.navbar.bootsnav li.dropdown ul.dropdown-menu{
      left: auto;
 }
 .custom-select-box .dropdown-item{
 	padding: 5px 10px;
 }
- .btn-cart{
-}
+ /* .btn-cart{
+} */
  .cart-list h6 a{
      font-size: 16px;
      font-weight: 700;
@@ -910,8 +909,8 @@
  .filter-button-group button.active{
      background: #000000;
 }
- .filter-button-group button{
-}
+ /* .filter-button-group button{
+} */
  .products-single {
      overflow: hidden;
      position: relative;
@@ -1286,8 +1285,8 @@
      padding-bottom: 20px;
 }
 
- .footer-link{
-}
+ /* .footer-link{
+} */
  .footer-link h4{
      color: #ffffff;
      font-size: 16px;
@@ -1438,7 +1437,7 @@
  .all-title-box .breadcrumb{
      background: #b0b435;
      margin: 0px;
-     display: inline-block;
+     /* display: inline-block; */
      border-radius: 0px;
 	 float: right;
 }
@@ -2000,7 +1999,7 @@
      -webkit-box-shadow: none;
      box-shadow: none;
      color: #fff;
-     display: inline-block;
+     /* display: inline-block; */
      float: right;
      cursor: pointer;
      font-size: 16px;
@@ -2094,7 +2093,7 @@
 }
  .new-account-login h5 {
      font-size: 18px;
-     color: #1111111;
+     color: red;
      font-weight: 600;
 }
  .new-account-login h5 a:hover{
@@ -2149,8 +2148,8 @@
  .service-icon i{
      font-size: 34px;
 }
- .my-account-page a:hover i{
-}
+ /* .my-account-page a:hover i{
+} */
  .service-desc p{
      font-size: 16px;
 }
@@ -2451,8 +2450,8 @@
      color: #ffffff;
      border: none;
 }
- .share-bar{
-}
+ /* .share-bar{
+} */
  .share-bar a {
      background: #b0b435;
      color: #ffffff;
@@ -2461,10 +2460,10 @@
      width: 34px;
      text-align: center;
 }
- .share-bar a {
-}
- .featured-products-box{
-}
+ /* .share-bar a {
+} */
+ /* .featured-products-box{
+} */
  .featured-products-box .owl-nav{
      position: absolute;
      margin: 0 auto;
