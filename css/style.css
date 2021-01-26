@@ -144,7 +144,7 @@
 /*------------------------------------------------------------------ LOADER -------------------------------------------------------------------*/
  #back-to-top {
      position: fixed;
-     bottom: 40px;
+     bottom: 20px;
      right: 40px;
      z-index: 9999;
      width: 32px;
@@ -153,9 +153,9 @@
      line-height: 5px;
      background: #b0b435;
      color: #ffffff;
-     cursor: pointer;
-     border: 0;
-     border-radius: 0px;
+     cursor: grab;
+     border: 2px;
+     border-radius: 20px;
      text-decoration: none;
      transition: opacity 0.2s ease-out;
      font-size: 28px;
