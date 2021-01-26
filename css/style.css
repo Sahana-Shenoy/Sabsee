@@ -144,18 +144,18 @@
 /*------------------------------------------------------------------ LOADER -------------------------------------------------------------------*/
  #back-to-top {
      position: fixed;
-     bottom: 20px;
+     bottom: 32px;
      right: 40px;
      z-index: 9999;
-     width: 32px;
-     height: 32px;
+     width: 40px;
+     height: 40px;
      text-align: center;
-     line-height: 5px;
+     line-height: 30px;
      background: #b0b435;
      color: #ffffff;
-     cursor: grab;
+     cursor: pointer;
      border: 2px;
-     border-radius: 20px;
+     border-radius: 50%;
      text-decoration: none;
      transition: opacity 0.2s ease-out;
      font-size: 28px;
@@ -907,7 +907,7 @@
      font-size: 18px;
 }
  .filter-button-group button.active{
-     background: #000000;
+     background: forestgreen;
 }
  /* .filter-button-group button{
 } */
